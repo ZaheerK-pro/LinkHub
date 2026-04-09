@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || "https://linkhub-api-mso4.onrender.com"
+  baseURL: import.meta.env.VITE_API_URL || "https://linkhub-api-f95r.onrender.com"
 });
 
 api.interceptors.request.use((config) => {
