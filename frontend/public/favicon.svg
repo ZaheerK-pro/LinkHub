@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="LinkHub">
+  <defs>
+    <linearGradient id="lh-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#lh-bg)"/>
+  <!-- simplified chain link, readable at small sizes -->
+  <g fill="none" stroke="#ffffff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10.5 14.5a3.5 3.5 0 0 1 4.9-4.9l1.4 1.4a3.5 3.5 0 0 1-4.9 4.9"/>
+    <path d="M15.2 19.2a3.5 3.5 0 0 0 4.9 4.9l1.4-1.4a3.5 3.5 0 0 0-4.9-4.9"/>
+    <path d="M13.5 18.5l5-5"/>
+  </g>
+</svg>
